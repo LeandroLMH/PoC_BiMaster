@@ -8,7 +8,8 @@
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
 - [Link para o artigo](https://github.com/LeandroLMH/PoC_BiMaster/blob/main/Artigo_integra%C3%A7%C3%A3o%20pipeline_A.pdf). 
-- [Link para o relatorio](https://github.com/LeandroLMH/PoC_BiMaster/blob/main/Relatorio-Linhas%20de%20Processo-FPSO_0.pbix). 
+- [Link para o relatorio](https://github.com/LeandroLMH/PoC_BiMaster/blob/main/Relatorio-Linhas%20de%20Processo-FPSO_0.pbix).
+
 ---
 
 ### Resumo
